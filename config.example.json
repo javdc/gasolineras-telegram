@@ -1,0 +1,9 @@
+{
+  "province_id": "41",
+  "municipality_id": "6148",
+  "top_n_stations": 5,
+  "daily_hour": 18,
+  "daily_minute": 0,
+  "log_file": "gasolineras-telegram.log",
+  "skip_ssl_verification": false
+}
